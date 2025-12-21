@@ -46,7 +46,7 @@ h1 {
 
 .toppings-container label {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 10px;
   font-size: 1.5rem;
 }
