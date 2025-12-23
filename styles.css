@@ -62,7 +62,6 @@ img {
 /* Cooking Methods */
 .cooked-container {
   position: relative;
-
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -70,14 +69,13 @@ img {
 }
 
 .dropdown-cooked {
-  position: absolute;
+  /* position: absolute;
   top: 100%;
-  left: 0;
+  left: 35; */
+  margin: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .cooked-header {
   margin: 3rem auto 1rem auto;
-}
-
-.cooked-label {
 }
